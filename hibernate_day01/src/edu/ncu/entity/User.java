@@ -1,5 +1,5 @@
 package edu.ncu.entity;
-
+//123
 public class User {
 
 	/*hibernate要求实体类有一个属性唯一的*/
