@@ -1,8 +1,9 @@
 package edu.ncu.entity;
 //123
+//pp
 public class User {
 
-	/*hibernateÒªÇóÊµÌåÀàÓĞÒ»¸öÊôĞÔÎ¨Ò»µÄ*/
+	/*hibernateè¦æ±‚å®ä½“ç±»æœ‰ä¸€ä¸ªå±æ€§å”¯ä¸€çš„*/
 	private int uid;
 	private String username;
 	private String password;
